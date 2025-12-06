@@ -8,7 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=jawedmukhbet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jawedmukhbet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jawedmukhbet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Total Commits](https://github-readme-stats.vercel.app/api?username=jawedmukhbet&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+
+### 🔢 Total Commits: <img src="https://img.shields.io/badge/Loading...-gray" />
+
+Total Commits (all repos): **{{TOTAL_COMMITS}}**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jawedmukhbet&theme=radical&no-frame=false&no-bg=true&margin-w=4)
